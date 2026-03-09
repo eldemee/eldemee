@@ -1,83 +1,12 @@
-# Hola, soy Demetrio López 👋
+# Hola, soy Demetrio López Lanzas👋
 
 Estudiante de Economía interesado en el análisis económico, la econometría y el estudio de datos aplicados a problemas económicos.
 
-Actualmente estudio en la Universidad de Sevilla y estoy realizando un Erasmus en KU Leuven (Bélgica), donde curso asignaturas avanzadas relacionadas con econometría y análisis de datos.
+Estudio en la Universidad de Sevilla y actualmente realizo un Erasmus en KU Leuven (Bélgica), donde curso asignaturas avanzadas relacionadas con econometría y análisis de datos. Manejo herramientas como Python, R y Stata para desarrollar y aplicar modelos econométricos, así como técnicas de machine learning y deep learning.
 
-Mi objetivo es combinar teoría económica, estadística y programación para entender mejor los mercados y los sistemas económicos complejos.
+Me encuentro en proceso de aprendizaje y busco nuevas oportunidades para seguir desarrollando mi carrera. Mi objetivo es combinar teoría económica, estadística y programación para entender mejor los mercados y los sistemas económicos complejos, y así poder dedicarme a la investigación económica.
 
----
-
-## 🔬 Áreas de interés
-
-- Econometría  
-- Análisis de datos en economía  
-- Mercados financieros  
-- Investigación cuantitativa  
-- Modelización económica  
-
----
-
-## 🛠 Herramientas
-
-- Python  
-- R  
-- Stata  
-- Excel  
-
-Trabajo principalmente en:
-
-- limpieza y procesamiento de datos  
-- análisis estadístico  
-- modelos econométricos  
-- visualización e interpretación de resultados  
-
----
-
-## 📚 Actualmente aprendiendo
-
-Durante mi estancia en KU Leuven estoy cursando asignaturas como:
-
-- Advanced Applied Econometrics  
-- Advanced Analytics in a Big Data World  
-- Management Control and Cost Management  
-
-Estas materias se centran en métodos estadísticos avanzados y análisis de datos a gran escala aplicados a la economía.
-
----
-
-## 📂 Proyectos
-
-En este repositorio encontrarás proyectos relacionados con:
-
-- análisis de datos económicos  
-- modelos econométricos  
-- exploración de datasets  
-- análisis de mercados  
-
-Ejemplos de trabajos:
-
-- análisis de series económicas  
-- modelos de regresión  
-- exploración de datos macroeconómicos  
-- visualizaciones de fenómenos económicos  
-
----
-
-## 🎥 Divulgación económica
-
-También tengo un canal de YouTube donde publico vídeos divulgativos sobre economía.
-
-YouTube → https://www.youtube.com/@demelop
-
----
-
-## 🌍 Idiomas
-
-- Inglés — B2  
-- Francés — A2 (actualmente aprendiendo)
-
----
+Actualmente en el Level 1 😺
 
 ## 📫 Contacto
 
